@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cloud-Native: Monoliths and Microservices"
+categories: [markdown]
 ---
 # Monoliths and Microservices 
-Note: This Blog is a part Cloud-Native Notes, find out more!
+> Note: This blog is a part of Cloud-Native Foundation, read more to finmd out!
