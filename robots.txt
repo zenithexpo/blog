@@ -1,1 +1,1 @@
-Sitemap: https://zenithexpo.github.io/blog/sitemap.xml
+Sitemap: https://dikshaverma.me/blog/sitemap.xml
