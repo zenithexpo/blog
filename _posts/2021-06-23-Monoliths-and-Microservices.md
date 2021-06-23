@@ -6,4 +6,5 @@ categories: [markdown]
 title:  Monoliths and Microservices
 ---
 # Monoliths and Microservices 
-> Note: Cloud-Native Foundation, read more to find out!
+## Introduction
+Monoliths and Microservices are cloud native archietecture phase of every application building.
