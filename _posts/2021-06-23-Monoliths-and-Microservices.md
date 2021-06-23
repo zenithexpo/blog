@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: post
 title:  "Cloud-Native: Monoliths and Microservices"
 categories: [markdown]
