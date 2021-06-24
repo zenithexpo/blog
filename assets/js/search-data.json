@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Cloud-Native",
-            "content": "Cloud-Native-Computing . Definition . In application development, The term cloud-native refers to a set of practices that deploy cloud computing. &quot;Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.&quot; [1] . References . [1] CNCF Cloud-Native Definition .",
+            "content": "Cloud Native Computing . Definition . In application development, the term cloud-native refers to a set of practices that deploy cloud computing. &quot;Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.&quot; [1] . References . [1] CNCF Cloud-Native Definition .",
             "url": "https://dikshaverma.me/blog/markdown/2021/06/24/Cloud-Native-Computing.html",
             "relUrl": "/markdown/2021/06/24/Cloud-Native-Computing.html",
             "date": " • Jun 24, 2021"
