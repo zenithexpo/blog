@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: What are cloud-native application, CNCF and more!
+description: What is cloud-native and cloud-native applications, CNCF and more!
 categories: [markdown]
 title:  Cloud-Native
 author: Diksha Verma
