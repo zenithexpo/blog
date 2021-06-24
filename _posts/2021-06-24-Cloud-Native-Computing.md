@@ -7,3 +7,4 @@ title:  Cloud-Native
 author: Diksha Verma
 ---
 # Cloud-Native
+<p>The term cloud-native is coined to refer set of practices which deploy cloud computing.</p>
