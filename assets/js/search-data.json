@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Monoliths and Microservices",
-            "content": "Monoliths and Microservices . Introduction . Monoliths and Microservices are cloud native archietecture phase of every application building. .",
+            "content": "Monoliths and Microservices . Introduction . Monoliths and Microservices are cloud native archietecture phase of every application building. While developing an application it is important to allocate time to context discovery and goals of the product. Depending upon organization’s resouces and functional requirement, the developing team selects the best suited architecture to deploy. .",
             "url": "https://dikshaverma.me/blog/markdown/2021/06/23/Monoliths-and-Microservices.html",
             "relUrl": "/markdown/2021/06/23/Monoliths-and-Microservices.html",
             "date": " • Jun 23, 2021"
